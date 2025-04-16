@@ -1,2 +1,2 @@
 # korolaukopi
-Saya membaut sebuah project, web site kopi senja. Ini adalah project pertama saya.
+Saya membuat sebuah project, web site kopi senja. Ini adalah project pertama saya.
